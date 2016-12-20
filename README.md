@@ -1,4 +1,4 @@
-# Long-term_time_series_Commercial_Survey
+# long-term_time_series_commercial_survey
 　【和歌山県　長期時系列　商業動態統計調査です。】
 ◆商業動態統計調査とは
 　　商業を営む事業所及び企業の販売活動などの動向を明らかにすることを目的として、 経済産業省が毎月実施しています。 
